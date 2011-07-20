@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "robotr"
   gem.homepage = "http://github.com/xiaohui-zhangxh/robotr"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{a robot to extract data from WWW}
+  gem.description = %Q{a robot to extract data from WWW}
   gem.email = "xiaohui@zhangxh.net"
   gem.authors = ["xiaohui"]
   # dependencies defined in Gemfile
